@@ -1,0 +1,15 @@
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\bin\Debug\net8.0\1060-NVL1.exe
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\bin\Debug\net8.0\1060-NVL1.deps.json
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\bin\Debug\net8.0\1060-NVL1.runtimeconfig.json
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\bin\Debug\net8.0\1060-NVL1.dll
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\bin\Debug\net8.0\1060-NVL1.pdb
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\obj\Debug\net8.0\1060-NVL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\obj\Debug\net8.0\1060-NVL1.AssemblyInfoInputs.cache
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\obj\Debug\net8.0\1060-NVL1.AssemblyInfo.cs
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\obj\Debug\net8.0\1060-NVL1.csproj.CoreCompileInputs.cache
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\obj\Debug\net8.0\1060-NVL1.sourcelink.json
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\obj\Debug\net8.0\1060-NVL1.dll
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\obj\Debug\net8.0\refint\1060-NVL1.dll
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\obj\Debug\net8.0\1060-NVL1.pdb
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\obj\Debug\net8.0\1060-NVL1.genruntimeconfig.cache
+C:\Users\muito\OneDrive\Documentos\GitHub\EXERCICIO-BEECROWD\1060-NVL1\obj\Debug\net8.0\ref\1060-NVL1.dll
