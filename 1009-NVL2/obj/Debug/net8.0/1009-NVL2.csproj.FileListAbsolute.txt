@@ -1,0 +1,14 @@
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\bin\Debug\net8.0\1009-NVL2.exe
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\bin\Debug\net8.0\1009-NVL2.deps.json
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\bin\Debug\net8.0\1009-NVL2.runtimeconfig.json
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\bin\Debug\net8.0\1009-NVL2.dll
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\bin\Debug\net8.0\1009-NVL2.pdb
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\obj\Debug\net8.0\1009-NVL2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\obj\Debug\net8.0\1009-NVL2.AssemblyInfoInputs.cache
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\obj\Debug\net8.0\1009-NVL2.AssemblyInfo.cs
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\obj\Debug\net8.0\1009-NVL2.csproj.CoreCompileInputs.cache
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\obj\Debug\net8.0\1009-NVL2.dll
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\obj\Debug\net8.0\refint\1009-NVL2.dll
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\obj\Debug\net8.0\1009-NVL2.pdb
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\obj\Debug\net8.0\1009-NVL2.genruntimeconfig.cache
+C:\Users\muito\OneDrive\Documentos\ESTUDOS\EXERCICIOS BEECROWD\1009-NVL2\obj\Debug\net8.0\ref\1009-NVL2.dll
